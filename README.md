@@ -7,9 +7,9 @@ A modern, responsive card component with a dark theme and minimal design.
 This project is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). The challenge focuses on building a responsive card component.
 
 ## 📸 Screenshots
-![On desktop screens](design\desktop-design.jpg)
-![On mobile screens](design\mobile-design.jpg)
 
+![On desktop screens](/design/desktop-design.png)
+![On mobile screens](/design/mobile-design.png)
 
 ### Desktop Design
 
