@@ -91,14 +91,14 @@ stats-preview-card/
 
 ## 🌐 Live Demo
 
-[View Live Demo](https://your-demo-link-here.netlify.app)
+[View Live Demo](https://stats-preview-card-component-delta-pied.vercel.app/)
 
 ## 📋 Getting Started
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/stats-preview-card.git
+   git clone https://github.com/codeStackr007/stats-preview-card-component.
    ```
 
 2. **Navigate to the project directory**
